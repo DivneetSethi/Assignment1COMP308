@@ -1,3 +1,8 @@
+//File Name: contact_me.js
+//Author's Name: Divneet Sethi
+//Website Name: Divneet Sethi Personal Portfolio (divneetsethi.github.io) 
+//File Description: javascript to validate the fields of the form if they are null or not. then send the mail.
+
 function validateContactForm() {
 
     var subject = document.getElementById("txtSubject").value;
